@@ -1,0 +1,17 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+.clean-wc-data-tab-container {
+    padding: 15px;
+    background: #fff;
+    box-shadow: 0px 2px 2px #ccc;
+    float: left;
+    box-sizing: border-box;
+    width: 100%;
+    height: auto;   
+}
+
+.clean-wc-data-tab-container input[type="text"] {
+    width: 100%;
+}
